@@ -1529,7 +1529,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ababff;
+  background: #ff01c9;
 }
 .sidebar-nav {
   margin: 0 0 20px;
@@ -2260,15 +2260,17 @@ body {
   clear: both;
 }
 .site-author-image {
-  float: left;
   margin-right: 10px;
-  max-width: 64px;
+  margin-bottom: 5px;
+  max-width: 200px;
   border-width: 1px;
   border-color: #eee;
 }
 .site-author-name {
   margin: 0;
   font-weight: 600;
+  font-size: 22px;
+  line-height: 25px;
 }
 .site-description {
   margin-top: 0;
